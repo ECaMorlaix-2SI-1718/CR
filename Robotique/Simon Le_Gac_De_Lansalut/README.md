@@ -13,3 +13,10 @@ pour simuler la fonction convertir, je vais créer un programe qui permet à la 
 
 ![1er programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/Capture.JPG)
 
+cela fonctione !!!
+je suis tres content
+
+cette démonstration n'est pas tres imprésionnante
+
+essayons autre chose :
+![2e programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/vsdgzegfe.JPG)
