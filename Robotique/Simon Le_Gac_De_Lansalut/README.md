@@ -19,4 +19,5 @@ cette démonstration n'est pas tres imprésionnante, le logitiel utiliser est Sc
 Essayon donc un programe sur enchenting, un logiciel compatible.
 tout d'abbord, nous devons déterminer les dimentions du robot. pour cette exemple, nous prederons des mesures non-exacte
 
-![2e programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/2.JPG)
+![2e programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/img/2.JPG)
+
