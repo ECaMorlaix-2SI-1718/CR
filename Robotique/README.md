@@ -15,7 +15,8 @@ Fonction Traiter :
 https://github.com/ECaMorlaix-2SI-1718/CR/tree/master/Robotique/Alan_Collongues
 
 Fonction Comuniquer :
-https://github.com/ECaMorlaix-2SI-1718/CR/tree/master/Robotique/Keith
+https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Keith/keith/Untitled.ipynb
 
 Fonction Transmettre :
 https://github.com/ECaMorlaix-2SI-1718/CR/tree/master/Robotique/Rapha%C3%ABl_Keruzec
+
