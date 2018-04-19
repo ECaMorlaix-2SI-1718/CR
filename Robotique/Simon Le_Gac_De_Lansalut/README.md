@@ -13,10 +13,10 @@ pour simuler la fonction convertir, je vais créer un programe qui permet à la 
 
 ![1er programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/Capture.JPG)
 
-cela fonctione !!!
-je suis tres content
+cela fonctione
 
-cette démonstration n'est pas tres imprésionnante
+cette démonstration n'est pas tres imprésionnante, le logitiel utiliser est Scratch. Porblème : le robot ne peux pas être lire les programes scratch
+Essayon donc un programe sur enchenting, un logiciel compatible.
+tout d'abbord, nous devons déterminer les dimentions du robot. pour cette exemple, nous prederons des mesures non-exacte
 
-essayons autre chose :
-![2e programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/vsdgzegfe.JPG)
+![2e programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/2.JPG)
