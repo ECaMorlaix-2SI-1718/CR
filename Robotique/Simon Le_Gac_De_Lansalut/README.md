@@ -9,7 +9,7 @@ convertissant l'energie  de la batterie (e electrique) en energie cynétique (e 
 
 
 ## 2) Simulation de la fonction convertir
-pour simuler la fonction convertir, je vais créer un programe qui permet à la brique de faire avancer el robot
+Pour simuler la fonction convertir, je vais créer un programe qui permet à la brique de faire avancer le robot
 
 ![1er programe](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/Capture.JPG)
 
@@ -27,3 +27,7 @@ essayons donc un programme :
 ![3e prgm](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/img/3.JPG)
 
 l'action ![action](https://github.com/ECaMorlaix-2SI-1718/CR/blob/master/Robotique/Simon%20Le_Gac_De_Lansalut/fonction%20convertir/img/4.JPG) permet au robot d'avancer
+tous ces tests sont concluants, nous pouvons donc passer à la tâche suivante
+
+## 3) Experimentation de la fonction convertir 
+Les programmes testés ci-dessus sont potentiel, nous allons donc les testés dans cette partie. 
