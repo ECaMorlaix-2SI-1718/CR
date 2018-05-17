@@ -1,0 +1,5 @@
+La fonction technique "communiquer" consiste à communiquer les informations à l'utilisateur ou aux autres parties du robot
+
+Cette fonction technique est importante,
+ex : quand un portail electrique s'ouvre , la communication faite pour dire qu'il s'ouvre , est la gyrophare.
+   : avec une serrure avec clavier numérique , lorsque le code est pas bon , il y a un signal lumineux et sonore
