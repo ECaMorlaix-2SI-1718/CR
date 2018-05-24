@@ -26,7 +26,7 @@ matériel :
 haut parleur et/ou led
 brique de contrôle
 2 moteurs + câbles de connections
-3 ou 4 roues ou des chenilles
+3 ou 4 roues
 
 
 Robot NXT
