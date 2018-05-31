@@ -1,4 +1,4 @@
-Déplacement du drone :
+# Déplacement du drone :
 
 Le contrôle d’un drone nécessite une technique particulière que le particulier doit apprendre. Comme les autres appareils volants,
 les drones se déplacent dans les airs. Les pales des hélices lui permettent d’effectuer le vol. Grâce à une électronique de navigation,
