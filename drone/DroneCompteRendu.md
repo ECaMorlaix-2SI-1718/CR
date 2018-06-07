@@ -19,3 +19,10 @@ de donner le colis déposera le colis sur une marche qui remontera vers le haut 
 avec ses pinces. Une fois pris le colis s'envolera alors pour rejoindre la passerelle du client. Le drone se déposera sur le haut de la 
 passerelle, dessera les pinces pour que le colis se dépose sur la marche qui descendra. Le client récupéra alors son colis.
 
+## La sustentation 
+
+
+
+Définition: la sustentation est l'effet d'une force qui maintient un corp à faible distance au-dessus d'une surface et sans contact avec elle.
+
+Cela permet au drone de voler à faible hauteur sans contact avec le sol et sans trop se déplacer de droite à gauche
